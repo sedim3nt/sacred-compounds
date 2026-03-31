@@ -1,0 +1,1688 @@
+[
+  {
+    "slug": "psilocybin",
+    "name": "Psilocybin",
+    "chemicalName": "4-Phosphoryloxy-N,N-dimethyltryptamine",
+    "sourceFile": "01-Psilocybin",
+    "classification": "Classic Psychedelic (Tryptamine)",
+    "duration": "4-6 hours",
+    "onset": "20-60 minutes",
+    "peak": "1-3 hours",
+    "origin": "Natural (Fungal)",
+    "legalStatus": "Illegal in most countries, decriminalized in some regions",
+    "commonNames": "Magic Mushrooms, Shrooms, Psilocybe, Sacred Mushrooms",
+    "overview": "Psilocybin is a naturally occurring psychedelic compound found in over 200 species of mushrooms, most commonly in the Psilocybe genus. It's considered one of the most well-researched and therapeutically promising psychedelics.",
+    "physicalEffects": [
+      "Dilated pupils",
+      "Changes in heart rate and blood pressure",
+      "Temperature fluctuations",
+      "Nausea (especially during onset)",
+      "Muscle tension or relaxation",
+      "Yawning and fatigue"
+    ],
+    "psychologicalEffects": [
+      "Altered sense of time and space",
+      "Enhanced empathy and emotional openness",
+      "Introspective thoughts and self-reflection",
+      "Mood enhancement or emotional lability",
+      "Sense of unity and interconnectedness",
+      "Dissolution of ego boundaries"
+    ],
+    "visualEffects": [
+      "Enhanced colors and visual acuity",
+      "Geometric patterns and fractals",
+      "Breathing or morphing of surfaces",
+      "Visual distortions and illusions",
+      "Closed-eye visuals (CEVs)",
+      "Synesthesia"
+    ],
+    "benefits": [
+      "Treatment-resistant depression relief",
+      "End-of-life anxiety reduction",
+      "PTSD symptom improvement",
+      "Addiction treatment support",
+      "Enhanced creativity and problem-solving",
+      "Spiritual and personal growth experiences"
+    ],
+    "contraindications": [
+      "History of psychosis or schizophrenia",
+      "Severe mental health conditions",
+      "Heart conditions or high blood pressure",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications (MAOIs, SSRIs)"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "lsd",
+    "name": "LSD",
+    "chemicalName": "Lysergic Acid Diethylamide",
+    "sourceFile": "02-LSD",
+    "classification": "Classic Psychedelic (Lysergamide)",
+    "duration": "8-12 hours",
+    "onset": "30-90 minutes",
+    "peak": "3-5 hours",
+    "origin": "Semisynthetic (derived from ergot fungus)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "Acid, Lucy, Tabs, Blotter, L, Doses",
+    "overview": "LSD is a semisynthetic psychedelic derived from ergot alkaloids found in fungi. Discovered in 1938 and first experienced in 1943, it became the archetypal psychedelic and catalyst for the modern psychedelic movement.",
+    "physicalEffects": [
+      "Dilated pupils (very pronounced)",
+      "Increased energy and alertness",
+      "Changes in body temperature regulation",
+      "Muscle tension or tremors",
+      "Increased heart rate and blood pressure",
+      "Decreased appetite",
+      "Insomnia or difficulty sleeping"
+    ],
+    "psychologicalEffects": [
+      "Profound alterations in consciousness",
+      "Enhanced introspection and self-awareness",
+      "Emotional amplification and lability",
+      "Sense of cosmic or spiritual connection",
+      "Time distortion and temporal loop experiences",
+      "Enhanced empathy and emotional openness"
+    ],
+    "visualEffects": [
+      "Vivid and complex geometric patterns",
+      "Color enhancement and saturation",
+      "Morphing and breathing of surfaces",
+      "Complex visual hallucinations",
+      "Fractal patterns and mandala-like visuals",
+      "Possible synesthesia"
+    ],
+    "benefits": [
+      "Treatment for depression and anxiety",
+      "Addiction therapy support",
+      "Enhanced creativity and problem-solving",
+      "Spiritual and mystical experiences",
+      "Increased psychological flexibility",
+      "Potential PTSD treatment"
+    ],
+    "contraindications": [
+      "Personal or family history of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Use with lithium or other contraindicated medications"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "dmt",
+    "name": "DMT",
+    "chemicalName": "N,N-Dimethyltryptamine",
+    "sourceFile": "03-DMT",
+    "classification": "Classic Psychedelic (Tryptamine)",
+    "duration": "5-30 minutes (smoked), 4-6 hours (oral with MAOI)",
+    "onset": "Immediate (smoked), 30-60 minutes (oral)",
+    "peak": "2-15 minutes (smoked), 1-3 hours (oral)",
+    "origin": "Natural (found in plants, animals, and humans)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "DMT, Dimitri, Spirit Molecule, Businessman's Trip",
+    "overview": "DMT is a powerful, naturally occurring psychedelic compound found in many plants and animals. Known for producing intense, short-duration experiences often described as \"breakthrough\" journeys to other dimensions.",
+    "physicalEffects": [
+      "Complete body relaxation or paralysis",
+      "Increased heart rate and blood pressure",
+      "Dilated pupils",
+      "Possible nausea (especially oral administration)",
+      "Temperature fluctuations",
+      "Minimal physical sensation awareness during peak"
+    ],
+    "psychologicalEffects": [
+      "Complete ego dissolution and identity loss",
+      "Encounters with seemingly autonomous entities",
+      "Experience of alternate dimensions or realities",
+      "Profound sense of cosmic consciousness",
+      "Life review and existential insights",
+      "Time distortion or timelessness"
+    ],
+    "visualEffects": [
+      "Incredibly complex geometric patterns",
+      "Fractal landscapes and impossible architectures",
+      "Vivid colors beyond normal spectrum",
+      "Entity visuals and communication",
+      "Complete replacement of visual field",
+      "Kaleidoscopic and chrysanthemum patterns"
+    ],
+    "benefits": [
+      "Profound spiritual and mystical experiences",
+      "Rapid ego dissolution for therapeutic insight",
+      "Treatment for depression and anxiety (research stage)",
+      "Enhanced creativity and problem-solving",
+      "Existential and philosophical insights",
+      "Possible near-death experience simulation"
+    ],
+    "contraindications": [
+      "History of psychosis or severe mental illness",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Use with MAOIs or other medications",
+      "Unstable psychological state"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "mescaline",
+    "name": "Mescaline",
+    "chemicalName": "3,4,5-Trimethoxyphenethylamine",
+    "sourceFile": "04-Mescaline",
+    "classification": "Classic Psychedelic (Phenethylamine)",
+    "duration": "8-14 hours",
+    "onset": "1-3 hours",
+    "peak": "3-6 hours",
+    "origin": "Natural (cactus species)",
+    "legalStatus": "Schedule I in most countries, religious exemptions exist",
+    "commonNames": "Mescaline, Peyote, San Pedro, Buttons, Cactus",
+    "overview": "Mescaline is a naturally occurring psychedelic alkaloid found in several cacti species, most notably peyote and San Pedro. It has been used for thousands of years in religious and healing ceremonies by indigenous peoples of the Americas.",
+    "physicalEffects": [
+      "Initial nausea and possible vomiting",
+      "Increased energy and physical awareness",
+      "Enhanced tactile sensations",
+      "Mild increases in heart rate and blood pressure",
+      "Possible sweating or temperature changes",
+      "Generally gentle on the body compared to other psychedelics"
+    ],
+    "psychologicalEffects": [
+      "Enhanced empathy and emotional openness",
+      "Deep introspective insights",
+      "Sense of connection with nature and others",
+      "Spiritual or mystical experiences",
+      "Increased appreciation for beauty",
+      "Emotional healing and processing"
+    ],
+    "visualEffects": [
+      "Enhanced colors and visual acuity",
+      "Geometric patterns and fractals (less intense than LSD)",
+      "Nature appearing more vivid and alive",
+      "Possible morphing of surfaces",
+      "Light and shadow play enhancement",
+      "Generally less visually intense than other psychedelics"
+    ],
+    "benefits": [
+      "Treatment for depression and anxiety (research stage)",
+      "Addiction treatment, especially alcohol use disorder",
+      "PTSD and trauma healing",
+      "Enhanced creativity and artistic expression",
+      "Spiritual growth and development",
+      "Increased environmental consciousness"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or high blood pressure",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications (MAOIs, some antidepressants)"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "5-meo-dmt",
+    "name": "5-MeO-DMT",
+    "chemicalName": "5-Methoxy-N,N-dimethyltryptamine",
+    "sourceFile": "05-5-MeO-DMT",
+    "classification": "Classic Psychedelic (Tryptamine)",
+    "duration": "15-45 minutes (vaporized), 3-6 hours (oral with MAOI)",
+    "onset": "1-5 minutes (vaporized), 30-60 minutes (oral)",
+    "peak": "5-20 minutes (vaporized), 1-3 hours (oral)",
+    "origin": "Natural (plants and Bufo alvarius toad)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "5-MeO-DMT, Bufo, Toad Venom, Five-methoxy, The God Molecule",
+    "overview": "5-MeO-DMT is one of the most potent naturally occurring psychedelics, found in various plants and the venom of the Colorado River toad. Known for producing intense ego dissolution experiences often described as \"white light\" or unity consciousness.",
+    "physicalEffects": [
+      "Complete loss of bodily awareness",
+      "Respiratory changes and possible breath holding",
+      "Intense energy sensations throughout body",
+      "Possible trembling or convulsions",
+      "Total physical immobilization during peak",
+      "Rapid return to normal physical function"
+    ],
+    "psychologicalEffects": [
+      "Complete ego dissolution and identity loss",
+      "Unity consciousness and non-dual awareness",
+      "Experience of pure being or existence",
+      "Dissolution of all mental constructs",
+      "Profound sense of home-coming or recognition",
+      "Possible terror or overwhelming awe"
+    ],
+    "visualEffects": [
+      "Intense white light or golden radiance",
+      "Complete replacement of visual field",
+      "Geometric patterns (less common than other psychedelics)",
+      "Possible absence of any visual experience",
+      "Return to normal vision rapid and complete"
+    ],
+    "benefits": [
+      "Profound spiritual awakening and enlightenment",
+      "Treatment for depression and existential anxiety",
+      "Addiction interruption and recovery support",
+      "Enhanced life perspective and meaning",
+      "Reduced fear of death",
+      "Mystical and transcendent experiences"
+    ],
+    "contraindications": [
+      "History of psychotic disorders or severe mental illness",
+      "Heart conditions or cardiovascular disease",
+      "Respiratory conditions or breathing problems",
+      "Pregnancy and breastfeeding",
+      "Unstable psychological state"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "ayahuasca",
+    "name": "Ayahuasca",
+    "chemicalName": "Banisteriopsis caapi + Psychotria viridis",
+    "sourceFile": "06-Ayahuasca",
+    "classification": "Plant Medicine (DMT + MAOI combination)",
+    "duration": "4-8 hours",
+    "onset": "30-90 minutes",
+    "peak": "1-3 hours",
+    "origin": "Natural (Amazonian plant combination)",
+    "legalStatus": "Illegal in most countries, religious exemptions exist",
+    "commonNames": "Ayahuasca, Yag\u00e9, Hoasca, Daime, La Purga, Vine of the Soul",
+    "overview": "Ayahuasca is a traditional plant medicine brew from the Amazon rainforest, combining the Banisteriopsis caapi vine with DMT-containing plants. Used for millennia by indigenous peoples for healing, divination, and spiritual communion.",
+    "physicalEffects": [
+      "Nausea and vomiting (considered therapeutic purging)",
+      "Diarrhea and intestinal cleansing",
+      "Increased heart rate and blood pressure",
+      "Body temperature fluctuations",
+      "Possible trembling or shaking",
+      "Deep relaxation alternating with physical discomfort"
+    ],
+    "psychologicalEffects": [
+      "Profound introspection and self-examination",
+      "Emotional release and healing",
+      "Life review and pattern recognition",
+      "Enhanced empathy and compassion",
+      "Confrontation with personal shadows and traumas",
+      "Spiritual and mystical experiences"
+    ],
+    "visualEffects": [
+      "Vivid, complex geometric patterns",
+      "Visions of animals, plants, and nature spirits",
+      "Ancestral and archetypal imagery",
+      "Jungle and rainforest landscapes",
+      "Entity encounters and spirit communication",
+      "Past-life or ancestral memories"
+    ],
+    "benefits": [
+      "Treatment for depression, anxiety, and PTSD",
+      "Addiction recovery and substance abuse treatment",
+      "Trauma healing and emotional processing",
+      "Spiritual growth and development",
+      "Enhanced creativity and problem-solving",
+      "Increased environmental consciousness"
+    ],
+    "contraindications": [
+      "History of psychotic disorders or severe mental illness",
+      "Heart conditions or cardiovascular disease",
+      "Use of SSRIs, MAOIs, or other contraindicated medications",
+      "Pregnancy and breastfeeding",
+      "Severe physical health conditions"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "peyote",
+    "name": "Peyote",
+    "chemicalName": "Lophophora williamsii",
+    "sourceFile": "07-Peyote",
+    "classification": "Plant Medicine (Mescaline-containing cactus)",
+    "duration": "8-12 hours",
+    "onset": "1-3 hours",
+    "peak": "3-6 hours",
+    "origin": "Natural (Chihuahuan Desert region)",
+    "legalStatus": "Illegal except for Native American Church religious use in US",
+    "commonNames": "Peyote, Sacred Cactus, Hikuli, Buttons, Divine Cactus",
+    "overview": "Peyote is a small, spineless cactus native to Mexico and southern Texas, containing the psychedelic compound mescaline. Sacred to many Native American tribes, it has been used for over 5,000 years in religious and healing ceremonies.",
+    "physicalEffects": [
+      "Initial nausea and possible vomiting (considered purification)",
+      "Enhanced physical sensitivity and awareness",
+      "Mild increases in heart rate and blood pressure",
+      "Possible sweating or temperature fluctuations",
+      "Generally gentle on the body",
+      "Enhanced connection with natural environment"
+    ],
+    "psychologicalEffects": [
+      "Deep spiritual and mystical experiences",
+      "Enhanced empathy and emotional connection",
+      "Profound introspection and self-examination",
+      "Sense of communion with nature and spirits",
+      "Emotional healing and catharsis",
+      "Increased appreciation for life and relationships"
+    ],
+    "visualEffects": [
+      "Enhanced colors and natural beauty",
+      "Geometric patterns and fractals (gentle)",
+      "Visions of animals, plants, and nature spirits",
+      "Enhanced perception of natural landscapes",
+      "Aura-like effects around living beings",
+      "Generally earth-toned and nature-focused visuals"
+    ],
+    "benefits": [
+      "Spiritual growth and religious awakening",
+      "Treatment for alcoholism and addiction",
+      "Enhanced connection with nature and environment",
+      "Cultural and ancestral healing",
+      "Improved emotional regulation and empathy",
+      "Treatment for depression and anxiety (traditional use)"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Use without proper cultural understanding or permission"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "san-pedro",
+    "name": "San Pedro",
+    "chemicalName": "Echinopsis pachanoi",
+    "sourceFile": "08-San-Pedro",
+    "classification": "Plant Medicine (Mescaline-containing cactus)",
+    "duration": "8-15 hours",
+    "onset": "1-3 hours",
+    "peak": "3-6 hours",
+    "origin": "Natural (Andean mountains)",
+    "legalStatus": "Legal to grow in most places, mescaline extraction illegal",
+    "commonNames": "San Pedro, Huachuma, Wachuma, Aguacolla, Gigant\u00f3n",
+    "overview": "San Pedro is a large columnar cactus native to the Andes mountains, containing the psychedelic compound mescaline. Used for over 3,000 years in traditional healing ceremonies, it offers a gentler and more nature-connected mescaline experience than peyote.",
+    "physicalEffects": [
+      "Mild nausea during onset (less than peyote)",
+      "Enhanced physical sensitivity and body awareness",
+      "Slight increases in heart rate and blood pressure",
+      "Possible sweating or temperature changes",
+      "Generally gentle and comfortable on the body",
+      "Enhanced connection with natural environment"
+    ],
+    "psychologicalEffects": [
+      "Deep emotional healing and heart opening",
+      "Enhanced empathy and love for others",
+      "Profound introspection and self-examination",
+      "Sense of connection with nature and Mother Earth",
+      "Emotional release and cathartic healing",
+      "Increased compassion and understanding"
+    ],
+    "visualEffects": [
+      "Enhanced colors and natural beauty appreciation",
+      "Gentle geometric patterns and fractals",
+      "Visions of nature, animals, and landscapes",
+      "Enhanced perception of natural textures and forms",
+      "Aura-like effects around living beings",
+      "Generally earth-toned and nature-focused visuals"
+    ],
+    "benefits": [
+      "Emotional healing and trauma processing",
+      "Enhanced empathy and compassion",
+      "Treatment for depression and anxiety (traditional use)",
+      "Addiction recovery support",
+      "Spiritual growth and awakening",
+      "Enhanced connection with nature and environment"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Use of certain medications (MAOIs, some antidepressants)"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "4-aco-dmt",
+    "name": "4-AcO-DMT",
+    "chemicalName": "4-Acetoxy-N,N-dimethyltryptamine",
+    "sourceFile": "09-4-AcO-DMT",
+    "classification": "Synthetic Tryptamine Psychedelic",
+    "duration": "4-8 hours",
+    "onset": "15-45 minutes",
+    "peak": "2-4 hours",
+    "origin": "Synthetic (developed by Albert Hofmann)",
+    "legalStatus": "Unscheduled in many places, legal grey area",
+    "commonNames": "4-AcO-DMT, Psilacetin, O-Acetylpsilocin, Synthetic Shrooms",
+    "overview": "4-AcO-DMT is a synthetic psychedelic that is chemically related to psilocybin and converts to psilocin in the body. Often called \"synthetic mushrooms,\" it produces effects very similar to psilocybin mushrooms but with more predictable dosing and purity.",
+    "physicalEffects": [
+      "Similar to psilocybin mushrooms",
+      "Possible nausea during onset (less than mushrooms)",
+      "Enhanced physical sensitivity",
+      "Slight changes in heart rate and blood pressure",
+      "Muscle relaxation or tension",
+      "Enhanced tactile sensations"
+    ],
+    "psychologicalEffects": [
+      "Deep introspection and self-examination",
+      "Enhanced emotional processing and empathy",
+      "Mood enhancement and euphoria",
+      "Increased psychological flexibility",
+      "Enhanced creativity and novel thinking",
+      "Possible confrontation with difficult emotions"
+    ],
+    "visualEffects": [
+      "Geometric patterns and fractals",
+      "Color enhancement and saturation",
+      "Morphing and breathing of surfaces",
+      "Enhancement of natural textures and patterns",
+      "Closed-eye visuals and imagery",
+      "Generally similar to psilocybin visuals"
+    ],
+    "benefits": [
+      "Similar therapeutic potential to psilocybin",
+      "More predictable dosing than natural mushrooms",
+      "Possible treatment for depression and anxiety",
+      "Enhanced creativity and problem-solving",
+      "Personal growth and self-understanding",
+      "Spiritual and mystical experiences"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions (caution advised)",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "iboga",
+    "name": "Iboga",
+    "chemicalName": "Tabernanthe iboga",
+    "sourceFile": "09-Iboga",
+    "classification": "Traditional Plant Medicine (African Sacred Medicine)",
+    "duration": "8-24 hours (traditional preparation)",
+    "onset": "1-4 hours",
+    "peak": "4-12 hours",
+    "origin": "Natural (West and Central African forests)",
+    "legalStatus": "Traditional use protected in Gabon, regulated elsewhere",
+    "commonNames": "Iboga, Eboka, Bois Sacr\ufffd, Sacred Wood",
+    "overview": "Iboga is a sacred shrub native to equatorial Africa, particularly Gabon, where it has been used for centuries by the Bwiti people in traditional healing and spiritual initiation ceremonies. The root bark contains multiple alkaloids including ibogaine, and represents one of Africa's most important plant medicines.",
+    "physicalEffects": [
+      "Nausea and vomiting (considered part of purification)",
+      "Ataxia and loss of physical coordination",
+      "Sensitivity to light and sound",
+      "Tremors and physical weakness",
+      "Temperature fluctuations",
+      "Possible cardiac effects with high doses"
+    ],
+    "psychologicalEffects": [
+      "Communication with ancestors and spiritual beings",
+      "Deep spiritual initiation and transformation",
+      "Life review and autobiographical visions",
+      "Confrontation with personal and ancestral shadows",
+      "Profound spiritual insights and teachings",
+      "Enhanced connection to Bwiti cosmology"
+    ],
+    "visualEffects": [
+      "Visions of ancestors and spiritual guides",
+      "Scenes from personal and ancestral history",
+      "African spiritual landscapes and imagery",
+      "Geometric patterns with cultural significance",
+      "Encounters with animal spirits and totems",
+      "Visions of traditional Bwiti symbolism"
+    ],
+    "benefits": [
+      "Spiritual initiation and transformation",
+      "Connection with ancestral wisdom and culture",
+      "Healing of spiritual and psychological wounds",
+      "Enhanced cultural identity and belonging",
+      "Traditional healing for various ailments",
+      "Protection through spiritual initiation"
+    ],
+    "contraindications": [
+      "Heart conditions or cardiovascular disease",
+      "Serious mental health conditions",
+      "Use without proper traditional guidance",
+      "Pregnancy and breastfeeding",
+      "Use of certain medications",
+      "Lack of cultural understanding or respect"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "ibogaine",
+    "name": "Ibogaine",
+    "chemicalName": "Ibogaine Hydrochloride",
+    "sourceFile": "10-Ibogaine",
+    "classification": "Psychedelic Alkaloid with Anti-addictive Properties",
+    "duration": "12-36 hours (full experience)",
+    "onset": "1-3 hours",
+    "peak": "4-12 hours",
+    "origin": "Natural (Tabernanthe iboga plant)",
+    "legalStatus": "Illegal in most countries, legal for addiction treatment in some",
+    "commonNames": "Ibogaine, Iboga Root, Bwiti Medicine",
+    "overview": "Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub Tabernanthe iboga. Known for its powerful anti-addictive properties, it's used in addiction treatment and spiritual healing, particularly in Bwiti traditions of Gabon.",
+    "physicalEffects": [
+      "Severe nausea and vomiting (common and intense)",
+      "Ataxia (loss of coordination and balance)",
+      "Cardiac effects including arrhythmias",
+      "Tremors and muscle weakness",
+      "Sensitivity to light and sound",
+      "Possible dangerous interactions with heart conditions"
+    ],
+    "psychologicalEffects": [
+      "Intense life review and autobiographical memories",
+      "Confrontation with addiction patterns and behaviors",
+      "Deep introspection and self-examination",
+      "Emotional processing and catharsis",
+      "Possible encounters with spiritual entities or guides",
+      "Profound insights into personal psychology"
+    ],
+    "visualEffects": [
+      "Complex, often autobiographical visions",
+      "Life review sequences and memory playback",
+      "Geometric patterns and fractals",
+      "Possible entity encounters and spiritual visions",
+      "Often described as \"movies\" of one's life",
+      "Both open and closed-eye visuals"
+    ],
+    "benefits": [
+      "Powerful addiction interruption and recovery support",
+      "Treatment for opioid, cocaine, alcohol, and other addictions",
+      "Deep psychological healing and trauma processing",
+      "Spiritual awakening and transformation",
+      "Enhanced self-awareness and insight",
+      "Possible treatment for depression (research stage)"
+    ],
+    "contraindications": [
+      "Any heart conditions or cardiovascular disease",
+      "History of cardiac arrhythmias",
+      "Use of many medications (extensive list)",
+      "Pregnancy and breastfeeding",
+      "Severe mental health conditions",
+      "Liver or kidney disease"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "mdma",
+    "name": "MDMA",
+    "chemicalName": "3,4-Methylenedioxymethamphetamine",
+    "sourceFile": "11-MDMA",
+    "classification": "Entactogen/Empathogen (also has stimulant properties)",
+    "duration": "3-6 hours",
+    "onset": "30-60 minutes",
+    "peak": "1-2 hours",
+    "origin": "Synthetic",
+    "legalStatus": "Schedule I in most countries, breakthrough therapy designation for PTSD",
+    "commonNames": "Ecstasy, Molly, E, X, Adam, Love Drug",
+    "overview": "MDMA is a synthetic compound that produces both stimulant and empathogenic effects. Often called the \"love drug,\" it's gained recognition as a breakthrough therapy for PTSD and is nearing FDA approval for therapeutic use.",
+    "physicalEffects": [
+      "Increased energy and alertness",
+      "Elevated heart rate and blood pressure",
+      "Increased body temperature (hyperthermia risk)",
+      "Jaw clenching and teeth grinding (bruxism)",
+      "Dilated pupils",
+      "Decreased appetite",
+      "Possible nausea during onset"
+    ],
+    "psychologicalEffects": [
+      "Intense feelings of love and empathy",
+      "Enhanced emotional openness and vulnerability",
+      "Reduced fear and social anxiety",
+      "Increased self-acceptance and self-love",
+      "Enhanced communication and intimacy",
+      "Heightened appreciation for music and touch"
+    ],
+    "visualEffects": [
+      "Mild visual enhancement (colors more vivid)",
+      "Possible light visual distortions",
+      "Generally minimal compared to classic psychedelics",
+      "Increased sensitivity to light"
+    ],
+    "benefits": [
+      "PTSD treatment (breakthrough therapy status)",
+      "Enhanced psychotherapy and emotional processing",
+      "Improved relationship communication",
+      "Reduced social anxiety and fear",
+      "Treatment for autism-related social anxiety",
+      "Possible applications for depression and anxiety"
+    ],
+    "contraindications": [
+      "Heart conditions or cardiovascular disease",
+      "High blood pressure or hypertension",
+      "History of stroke or cerebrovascular issues",
+      "Liver or kidney disease",
+      "Pregnancy and breastfeeding",
+      "Use with MAOIs or other contraindicated medications"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "salvia-divinorum",
+    "name": "Salvia Divinorum",
+    "chemicalName": "Salvia divinorum",
+    "sourceFile": "12-Salvia-Divinorum",
+    "classification": "Dissociative Psychedelic (Kappa-opioid receptor agonist)",
+    "duration": "5-30 minutes (smoked), 1-3 hours (chewed)",
+    "onset": "30 seconds-2 minutes (smoked), 15-30 minutes (chewed)",
+    "peak": "2-10 minutes (smoked), 30-60 minutes (chewed)",
+    "origin": "Natural (Mexican cloud forests)",
+    "legalStatus": "Varies by jurisdiction, legal in many places",
+    "commonNames": "Salvia, Diviner's Sage, Ska Mar\u00eda Pastora, Magic Mint, Sally-D",
+    "overview": "Salvia divinorum is a plant in the mint family native to the cloud forests of Mexico, containing the unique psychoactive compound salvinorin A. Used traditionally by Mazatec shamans for divination and healing, it produces intense but brief dissociative experiences unlike any other psychedelic.",
+    "physicalEffects": [
+      "Profound loss of motor control and coordination",
+      "Uncontrolled laughter (sometimes)",
+      "Sweating and temperature changes",
+      "Possible falling or dangerous movements",
+      "Complete physical disorientation",
+      "Rapid return to normal physical function"
+    ],
+    "psychologicalEffects": [
+      "Complete disconnection from normal reality",
+      "Transformation into objects, places, or other beings",
+      "Encounters with entities or beings",
+      "Feeling of being pulled or dragged by forces",
+      "Complete loss of human identity",
+      "Often described as bizarre and alien"
+    ],
+    "visualEffects": [
+      "Complete replacement of visual field",
+      "Geometric patterns and impossible geometries",
+      "Entity encounters and alien landscapes",
+      "Transformation of environment into completely different reality",
+      "Often described as more real than real"
+    ],
+    "benefits": [
+      "Traditional use for divination and spiritual insight",
+      "Possible therapeutic applications (very limited research)",
+      "Unique consciousness research applications",
+      "Brief duration minimizes some risks",
+      "No known physical toxicity or addiction potential"
+    ],
+    "contraindications": [
+      "History of psychotic disorders or reality dissociation issues",
+      "Severe mental health conditions",
+      "Any situation requiring motor control or awareness",
+      "Use without proper supervision and safety measures"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "2c-b",
+    "name": "2C-B",
+    "chemicalName": "2,5-Dimethoxy-4-bromophenethylamine",
+    "sourceFile": "13-2C-B",
+    "classification": "Psychedelic Phenethylamine with Empathogenic Properties",
+    "duration": "4-8 hours",
+    "onset": "30-90 minutes (oral), 5-10 minutes (insufflated)",
+    "peak": "2-4 hours",
+    "origin": "Synthetic (created by Alexander Shulgin)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "2C-B, Nexus, Venus, Bees, Tootsie, Bromo",
+    "overview": "2C-B is a synthetic psychedelic first synthesized by Alexander Shulgin in 1974. It combines visual psychedelic effects with empathogenic qualities, making it unique among psychedelics for its dual nature and relatively gentle experience profile.",
+    "physicalEffects": [
+      "Increased energy and physical awareness",
+      "Enhanced tactile sensations",
+      "Mild increases in heart rate and blood pressure",
+      "Possible nausea during onset",
+      "Muscle tension or relaxation",
+      "Enhanced sensitivity to touch and temperature"
+    ],
+    "psychologicalEffects": [
+      "Enhanced empathy and emotional connection",
+      "Increased introspection and self-awareness",
+      "Mood enhancement and euphoria",
+      "Enhanced communication and social bonding",
+      "Emotional openness and vulnerability",
+      "Reduced social anxiety and inhibition"
+    ],
+    "visualEffects": [
+      "Vivid color enhancement and saturation",
+      "Geometric patterns and fractals",
+      "Morphing and breathing of surfaces",
+      "Enhanced visual acuity and depth perception",
+      "Light trails and visual distortions",
+      "Generally more colorful and playful than other psychedelics"
+    ],
+    "benefits": [
+      "Enhanced emotional processing and communication",
+      "Possible applications for social anxiety treatment",
+      "Creative and artistic inspiration",
+      "Personal growth and self-awareness",
+      "Reduced depression and anxiety (research stage)"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications (MAOIs, some antidepressants)"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "ketamine",
+    "name": "Ketamine",
+    "chemicalName": "Ketamine Hydrochloride",
+    "sourceFile": "14-Ketamine",
+    "classification": "Dissociative Anesthetic (NMDA receptor antagonist)",
+    "duration": "45-90 minutes (intramuscular), 1-2 hours (oral)",
+    "onset": "2-5 minutes (IV), 5-15 minutes (IM), 15-30 minutes (oral)",
+    "peak": "10-30 minutes (IV/IM), 30-60 minutes (oral)",
+    "origin": "Synthetic (developed 1962)",
+    "legalStatus": "Schedule III (controlled but legal for medical use)",
+    "commonNames": "Ketamine, Special K, K, Ket, Vitamin K, Cat Tranquilizer",
+    "overview": "Ketamine is a dissociative anesthetic that has gained recognition as a breakthrough treatment for depression. Originally developed for medical anesthesia, it's now used both therapeutically for mental health conditions and recreationally for its unique consciousness-altering effects.",
+    "physicalEffects": [
+      "Profound motor impairment and loss of coordination",
+      "Numbness and loss of physical sensation",
+      "Increased heart rate and blood pressure",
+      "Nausea and vomiting (especially at higher doses)",
+      "Muscle rigidity or relaxation",
+      "Potential respiratory depression at high doses"
+    ],
+    "psychologicalEffects": [
+      "Dissociation from body and environment",
+      "Ego dissolution and loss of identity",
+      "Out-of-body experiences",
+      "Emotional detachment and numbness",
+      "Altered perception of time and space",
+      "Possible antidepressant effects lasting days to weeks"
+    ],
+    "visualEffects": [
+      "Visual distortions and tunnel vision",
+      "Geometric patterns and fractals",
+      "Environmental morphing and warping",
+      "Possible complete visual replacement at high doses",
+      "Enhanced colors and visual depth"
+    ],
+    "benefits": [
+      "Rapid-acting depression treatment (FDA approved)",
+      "Treatment-resistant depression relief",
+      "Suicidal ideation reduction",
+      "PTSD and trauma therapy support",
+      "Chronic pain management",
+      "Possible addiction treatment applications"
+    ],
+    "contraindications": [
+      "Severe cardiovascular disease or uncontrolled hypertension",
+      "History of psychotic disorders",
+      "Pregnancy and breastfeeding",
+      "Active substance use disorders (relative contraindication)",
+      "Severe kidney or liver disease"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "cannabis",
+    "name": "Cannabis",
+    "chemicalName": "Cannabis sativa/indica",
+    "sourceFile": "15-Cannabis",
+    "classification": "Mild Psychedelic/Psychoactive Herb (Cannabinoid receptor agonist)",
+    "duration": "1-4 hours (smoked), 4-8 hours (edibles)",
+    "onset": "2-10 minutes (smoked), 30-120 minutes (edibles)",
+    "peak": "30-60 minutes (smoked), 2-4 hours (edibles)",
+    "origin": "Natural (cultivated worldwide)",
+    "legalStatus": "Rapidly changing, legal in many jurisdictions",
+    "commonNames": "Cannabis, Marijuana, Weed, Ganja, Herb, Mary Jane, Pot",
+    "overview": "Cannabis is one of the most widely used psychoactive plants in the world, containing compounds like THC and CBD. While typically classified as a mild psychedelic, at higher doses it can produce profound altered states of consciousness, visual effects, and spiritual experiences.",
+    "physicalEffects": [
+      "Relaxation and muscle tension relief",
+      "Enhanced sensory perception",
+      "Increased appetite (\"munchies\")",
+      "Dry mouth and red eyes",
+      "Possible dizziness or lightheadedness",
+      "Enhanced tactile sensations"
+    ],
+    "psychologicalEffects": [
+      "Euphoria and mood enhancement",
+      "Enhanced creativity and imagination",
+      "Increased introspection and self-reflection",
+      "Possible anxiety or paranoia (dose-dependent)",
+      "Enhanced empathy and social connection",
+      "Altered time perception"
+    ],
+    "visualEffects": [
+      "Enhanced color perception and visual acuity",
+      "Possible visual distortions at higher doses",
+      "Pattern enhancement and morphing",
+      "Closed-eye visuals (higher doses)",
+      "Enhanced appreciation for visual art and beauty"
+    ],
+    "benefits": [
+      "Treatment for chronic pain and inflammation",
+      "Anxiety and stress reduction (dose-dependent)",
+      "Enhancement of creativity and artistic expression",
+      "Social bonding and communication enhancement",
+      "Possible therapeutic applications for PTSD and trauma",
+      "Appetite stimulation and nausea reduction"
+    ],
+    "contraindications": [
+      "History of psychotic disorders or schizophrenia",
+      "Severe anxiety disorders (though may help some)",
+      "Pregnancy and breastfeeding",
+      "Respiratory conditions (for smoking)",
+      "Use before driving or operating machinery"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "datura",
+    "name": "Datura",
+    "chemicalName": "Datura stramonium",
+    "sourceFile": "16-Datura",
+    "classification": "Deliriant/Anticholinergic (NOT a classical psychedelic)",
+    "duration": "12-48 hours (extremely variable and unpredictable)",
+    "onset": "30-120 minutes",
+    "peak": "4-16 hours",
+    "origin": "Natural (found worldwide)",
+    "legalStatus": "Legal to grow in most places, dangerous to consume",
+    "commonNames": "Datura, Jimsonweed, Devil's Trumpet, Thorn Apple, Mad Hatter",
+    "overview": "Datura is a highly toxic plant containing tropane alkaloids that produce powerful and dangerous deliriant effects. Unlike classical psychedelics, datura creates realistic but terrifying hallucinations and is associated with serious medical risks and psychological trauma.",
+    "physicalEffects": [
+      "**SEVERE MEDICAL RISKS INCLUDING DEATH**",
+      "Dangerous hyperthermia and dehydration",
+      "Extreme pupil dilation and vision problems",
+      "Severe dry mouth and inability to swallow",
+      "Dangerous increases in heart rate and blood pressure",
+      "Possible seizures, coma, and respiratory failure",
+      "Complete loss of motor control and coordination"
+    ],
+    "psychologicalEffects": [
+      "Complete delirium and loss of reality testing",
+      "Terrifying and realistic hallucinations",
+      "Conversations with people who aren't there",
+      "Complete memory loss during experience",
+      "Extreme confusion and disorientation",
+      "Often described as living nightmare"
+    ],
+    "visualEffects": [
+      "Extremely realistic hallucinations indistinguishable from reality",
+      "Hallucinated people, objects, and scenarios",
+      "Spiders, insects, and other disturbing imagery common",
+      "Complete replacement of visual environment",
+      "Users cannot tell what is real vs. hallucinated"
+    ],
+    "benefits": [
+      "**NO RECREATIONAL BENEFITS - EXTREMELY DANGEROUS**",
+      "Historical use in traditional medicine (highly toxic)",
+      "Some compounds used in modern medicine in controlled doses",
+      "Research applications under strict medical supervision"
+    ],
+    "contraindications": [
+      "**CONTRAINDICATED FOR ALL RECREATIONAL USE**",
+      "Everyone - no safe recreational dose exists",
+      "Particularly dangerous for those with heart conditions",
+      "Extremely dangerous for those with mental health conditions"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "mda",
+    "name": "MDA",
+    "chemicalName": "3,4-Methylenedioxyamphetamine",
+    "sourceFile": "17-MDA",
+    "classification": "Empathogenic Psychedelic (Serotonin-dopamine-norepinephrine releaser)",
+    "duration": "6-10 hours",
+    "onset": "30-90 minutes",
+    "peak": "2-4 hours",
+    "origin": "Synthetic (developed early 1900s)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "MDA, Sally, Love Drug, Tenamfetamine",
+    "overview": "MDA is a psychedelic amphetamine that combines empathogenic effects with visual psychedelic properties. Often called the \"love drug,\" it predates MDMA and offers a more psychedelic experience with enhanced visual effects and introspective qualities.",
+    "physicalEffects": [
+      "Increased energy and physical stamina",
+      "Enhanced tactile sensations and touch sensitivity",
+      "Increased heart rate and blood pressure",
+      "Possible jaw clenching and muscle tension",
+      "Sweating and temperature regulation changes",
+      "Enhanced physical awareness and coordination"
+    ],
+    "psychologicalEffects": [
+      "Profound empathy and emotional openness",
+      "Enhanced self-awareness and introspection",
+      "Euphoria and mood elevation",
+      "Increased sociability and communication",
+      "Emotional healing and processing",
+      "Enhanced creativity and imagination"
+    ],
+    "visualEffects": [
+      "Vivid color enhancement and saturation",
+      "Geometric patterns and fractals",
+      "Visual distortions and morphing",
+      "Enhanced visual acuity and depth perception",
+      "Closed-eye visuals and imagery",
+      "More prominent visual effects than MDMA"
+    ],
+    "benefits": [
+      "Enhanced emotional processing and communication",
+      "Relationship and couples therapy applications",
+      "Creative and artistic inspiration",
+      "Spiritual and personal growth experiences",
+      "Possible treatment for depression and anxiety"
+    ],
+    "contraindications": [
+      "History of heart conditions or cardiovascular disease",
+      "Severe mental health conditions",
+      "History of eating disorders",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications (MAOIs, some antidepressants)"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "doc",
+    "name": "DOC",
+    "chemicalName": "2,5-Dimethoxy-4-chloroamphetamine",
+    "sourceFile": "18-DOC",
+    "classification": "Psychedelic Amphetamine (5-HT2A receptor agonist)",
+    "duration": "12-24 hours",
+    "onset": "1-3 hours",
+    "peak": "4-8 hours",
+    "origin": "Synthetic (created by Alexander Shulgin)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "DOC, 2,5-Dimethoxy-4-chloroamphetamine",
+    "overview": "DOC is a synthetic psychedelic amphetamine created by Alexander Shulgin, known for its extremely long duration and intense effects. Part of the DOx family, it combines stimulant properties with powerful psychedelic visuals and can last up to 24 hours.",
+    "physicalEffects": [
+      "Significant stimulation and increased energy",
+      "Enhanced physical awareness and sensitivity",
+      "Increased heart rate and blood pressure",
+      "Possible muscle tension and jaw clenching",
+      "Reduced appetite and sleep ability",
+      "Enhanced stamina and endurance"
+    ],
+    "psychologicalEffects": [
+      "Intense introspection and self-examination",
+      "Enhanced emotional processing and insight",
+      "Possible anxiety or overwhelming feelings",
+      "Enhanced creativity and lateral thinking",
+      "Philosophical and existential thoughts",
+      "Potential for challenging psychological experiences"
+    ],
+    "visualEffects": [
+      "Extremely intense and complex geometric patterns",
+      "Vivid color enhancement and saturation",
+      "Morphing and breathing of surfaces",
+      "Complex closed-eye visuals",
+      "Pattern recognition enhancement",
+      "Among the most intense visuals of any psychedelic"
+    ],
+    "benefits": [
+      "Deep introspective and therapeutic insights",
+      "Enhanced creativity and artistic inspiration",
+      "Spiritual and mystical experiences",
+      "Personal growth and self-understanding",
+      "Problem-solving and perspective shifts",
+      "Intense visual and aesthetic experiences"
+    ],
+    "contraindications": [
+      "History of heart conditions or cardiovascular disease",
+      "Severe mental health conditions",
+      "History of psychotic disorders",
+      "Pregnancy and breastfeeding",
+      "Use with stimulant medications or substances"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "muscimol",
+    "name": "Muscimol",
+    "chemicalName": "Amanita muscaria",
+    "sourceFile": "19-Muscimol",
+    "classification": "GABAergic Psychoactive (GABA-A receptor agonist)",
+    "duration": "4-10 hours",
+    "onset": "30-120 minutes",
+    "peak": "2-4 hours",
+    "origin": "Natural (Amanita muscaria mushrooms)",
+    "legalStatus": "Legal in most jurisdictions",
+    "commonNames": "Amanita muscaria, Fly Agaric, Fly Amanita, Red and White Mushroom",
+    "overview": "Muscimol is the primary psychoactive compound found in Amanita muscaria (fly agaric) mushrooms. Unlike psilocybin, muscimol acts on GABA receptors, producing dream-like states, altered perception, and unique experiences that differ significantly from classical psychedelics.",
+    "physicalEffects": [
+      "Sedation and muscle relaxation",
+      "Possible loss of motor coordination",
+      "Drowsiness and tendency to sleep",
+      "Altered perception of body size and weight",
+      "Possible nausea (less common than with psilocybin)",
+      "Enhanced tactile sensations"
+    ],
+    "psychologicalEffects": [
+      "Dream-like states and altered consciousness",
+      "Possible out-of-body experiences",
+      "Enhanced introspection and reflection",
+      "Altered perception of time and space",
+      "Possible euphoria or mood changes",
+      "Enhanced connection with nature and folklore"
+    ],
+    "visualEffects": [
+      "Altered size perception (macropsia/micropsia)",
+      "Enhanced colors and visual depth",
+      "Possible mild geometric patterns",
+      "Dream-like visual experiences",
+      "Generally less intense visuals than classical psychedelics"
+    ],
+    "benefits": [
+      "Deep relaxation and stress relief",
+      "Enhanced dream work and lucid dreaming",
+      "Traditional shamanic and spiritual applications",
+      "Possible applications for anxiety and insomnia",
+      "Enhanced creativity and artistic inspiration",
+      "Connection with folklore and traditional practices"
+    ],
+    "contraindications": [
+      "Liver disease or hepatic conditions",
+      "Pregnancy and breastfeeding",
+      "History of severe mental health conditions",
+      "Use with alcohol or other depressants",
+      "Respiratory conditions (due to sedating effects)"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "al-lad",
+    "name": "AL-LAD",
+    "chemicalName": "6-Allyl-6-nor-LSD",
+    "sourceFile": "20-AL-LAD",
+    "classification": "Lysergamide Psychedelic (5-HT2A receptor agonist)",
+    "duration": "6-10 hours",
+    "onset": "30-90 minutes",
+    "peak": "2-4 hours",
+    "origin": "Synthetic (lysergamide derivative)",
+    "legalStatus": "Legal grey area in many jurisdictions",
+    "commonNames": "AL-LAD, Aladdin, 6-Allyl-6-nor-LSD",
+    "overview": "AL-LAD is a synthetic psychedelic closely related to LSD, known for producing visual-heavy experiences with less intense psychological effects. Often described as \"LSD-lite,\" it offers colorful, playful visuals with reduced anxiety and more manageable headspace compared to LSD.",
+    "physicalEffects": [
+      "Mild stimulation and increased energy",
+      "Enhanced physical awareness and coordination",
+      "Slight changes in heart rate and blood pressure",
+      "Enhanced tactile sensations",
+      "Generally comfortable physical experience",
+      "Minimal body load compared to LSD"
+    ],
+    "psychologicalEffects": [
+      "Enhanced mood and playful mindset",
+      "Increased creativity and imagination",
+      "Mild introspection and self-reflection",
+      "Enhanced social interaction and empathy",
+      "Reduced anxiety compared to LSD",
+      "Generally positive and manageable headspace"
+    ],
+    "visualEffects": [
+      "Extremely vibrant and saturated colors",
+      "Complex geometric patterns and fractals",
+      "Morphing and breathing of surfaces",
+      "Enhanced visual acuity and depth perception",
+      "Stunning closed-eye visuals",
+      "Often described as most visual lysergamide"
+    ],
+    "benefits": [
+      "Enhanced creativity and artistic inspiration",
+      "Visual beauty and aesthetic appreciation",
+      "Social bonding and communication enhancement",
+      "Personal growth with reduced psychological intensity",
+      "Possible therapeutic applications (research needed)",
+      "Introduction to psychedelics with gentler profile"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions (caution advised)",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "25i-nbome",
+    "name": "25I-NBOMe",
+    "chemicalName": "2C-I-NBOMe",
+    "sourceFile": "21-25I-NBOMe",
+    "classification": "Synthetic Phenethylamine Psychedelic (5-HT2A receptor agonist)",
+    "duration": "6-12 hours",
+    "onset": "15-45 minutes",
+    "peak": "2-4 hours",
+    "origin": "Synthetic (developed from 2C-I)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "25I-NBOMe, N-Bomb, Smiles, 25I, 2C-I-NBOMe",
+    "overview": "25I-NBOMe is a highly potent synthetic psychedelic from the NBOMe family, known for intense visual effects but carrying significant safety risks. Often sold as \"fake LSD,\" it has caused numerous hospitalizations and deaths due to its toxicity and unpredictable effects.",
+    "physicalEffects": [
+      "**SERIOUS MEDICAL RISKS INCLUDING DEATH**",
+      "Dangerous increases in heart rate and blood pressure",
+      "Hyperthermia and temperature dysregulation",
+      "Seizures and convulsions (reported frequently)",
+      "Vasoconstriction and circulation problems",
+      "Nausea, vomiting, and gastrointestinal distress",
+      "Possible cardiac arrest and respiratory failure"
+    ],
+    "psychologicalEffects": [
+      "Intense and often overwhelming visual hallucinations",
+      "Anxiety, panic, and paranoia (common)",
+      "Confusion and disorientation",
+      "Possible psychotic episodes",
+      "Aggressive or erratic behavior",
+      "Loss of reality testing"
+    ],
+    "visualEffects": [
+      "Extremely intense geometric patterns",
+      "Overwhelming color saturation and distortions",
+      "Complex morphing and visual replacement",
+      "Fractal patterns and impossible geometries",
+      "Often described as too intense to be enjoyable"
+    ],
+    "benefits": [
+      "**NO SAFE RECREATIONAL OR THERAPEUTIC BENEFITS**",
+      "Research applications only under strict medical supervision",
+      "Academic interest in receptor binding studies"
+    ],
+    "contraindications": [
+      "**CONTRAINDICATED FOR ALL RECREATIONAL USE**",
+      "Particularly dangerous for those with heart conditions",
+      "Extremely dangerous for those with mental health conditions",
+      "Should not be used by anyone outside research settings"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "dpt",
+    "name": "DPT",
+    "chemicalName": "N,N-Dipropyltryptamine",
+    "sourceFile": "22-DPT",
+    "classification": "Synthetic Tryptamine Psychedelic (5-HT2A receptor agonist)",
+    "duration": "2-5 hours (intramuscular), 4-8 hours (oral)",
+    "onset": "15-30 minutes (IM), 30-90 minutes (oral)",
+    "peak": "30-90 minutes (IM), 2-4 hours (oral)",
+    "origin": "Synthetic (developed for research)",
+    "legalStatus": "Schedule I in most countries",
+    "commonNames": "DPT, Dipropyltryptamine, The Light",
+    "overview": "DPT is a synthetic tryptamine psychedelic known for producing intense, often challenging experiences with deep introspective and spiritual qualities. Used historically in psychedelic therapy research, it tends to produce more serious and contemplative experiences than DMT.",
+    "physicalEffects": [
+      "Initial anxiety and body tension common",
+      "Increased heart rate and blood pressure",
+      "Possible nausea during onset",
+      "Enhanced physical sensitivity",
+      "Temperature fluctuations",
+      "Generally manageable physical effects"
+    ],
+    "psychologicalEffects": [
+      "Intense introspection and self-examination",
+      "Confrontation with personal shadows and traumas",
+      "Deep emotional processing and catharsis",
+      "Possible encounters with death and mortality themes",
+      "Enhanced empathy and understanding",
+      "Often serious and contemplative mood"
+    ],
+    "visualEffects": [
+      "Complex geometric patterns and mandalas",
+      "Entity encounters and spiritual visions",
+      "Symbolic and archetypal imagery",
+      "Enhanced colors and visual depth",
+      "Closed-eye visuals often more prominent than open-eye",
+      "Often spiritually or mystically themed"
+    ],
+    "benefits": [
+      "Deep psychological healing and trauma processing",
+      "Spiritual growth and mystical experiences",
+      "Enhanced self-understanding and insight",
+      "Treatment for depression and existential anxiety",
+      "Addiction recovery support (historical therapeutic use)",
+      "Enhanced creativity and problem-solving"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Use without proper preparation and support"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "4-ho-met",
+    "name": "4-HO-MET",
+    "chemicalName": "4-Hydroxy-N-methyl-N-ethyltryptamine",
+    "sourceFile": "23-4-HO-MET",
+    "classification": "Synthetic Tryptamine Psychedelic (5-HT2A receptor agonist)",
+    "duration": "4-7 hours",
+    "onset": "15-45 minutes",
+    "peak": "2-3 hours",
+    "origin": "Synthetic (developed by Alexander Shulgin)",
+    "legalStatus": "Legal grey area in many jurisdictions",
+    "commonNames": "4-HO-MET, Metocin, Color",
+    "overview": "4-HO-MET is a synthetic psilocybin analogue known for producing colorful, visual-heavy experiences with minimal psychological content. Often described as \"recreational psilocybin,\" it offers beautiful visuals and euphoria with reduced introspective intensity and anxiety.",
+    "physicalEffects": [
+      "Generally comfortable and pleasant physical sensations",
+      "Slight stimulation and increased energy",
+      "Enhanced tactile sensitivity",
+      "Minimal nausea compared to other tryptamines",
+      "Enhanced physical coordination and movement",
+      "Generally very manageable body load"
+    ],
+    "psychologicalEffects": [
+      "Euphoria and positive mood enhancement",
+      "Light, playful, and recreational headspace",
+      "Minimal anxiety or psychological challenge",
+      "Enhanced creativity and imagination",
+      "Social enhancement and communication",
+      "Generally clear and functional thinking"
+    ],
+    "visualEffects": [
+      "Extremely vibrant and saturated colors",
+      "Beautiful geometric patterns and fractals",
+      "Enhanced visual acuity and depth perception",
+      "Morphing and breathing of surfaces",
+      "Spectacular closed-eye visuals",
+      "Often described as most visually beautiful tryptamine"
+    ],
+    "benefits": [
+      "Introduction to psychedelics with gentle profile",
+      "Enhanced creativity and artistic inspiration",
+      "Social bonding and communication enhancement",
+      "Visual beauty and aesthetic appreciation",
+      "Mood enhancement and euphoria",
+      "Reduced anxiety compared to other psychedelics"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions (caution advised)",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "pcp",
+    "name": "PCP",
+    "chemicalName": "Phencyclidine",
+    "sourceFile": "24-PCP",
+    "classification": "Dissociative Anesthetic (NMDA receptor antagonist)",
+    "duration": "4-8 hours (effects can persist longer)",
+    "onset": "15-60 minutes (depending on route)",
+    "peak": "1-4 hours",
+    "origin": "Synthetic (developed as anesthetic)",
+    "legalStatus": "Schedule II (medical use) / Schedule I (recreational)",
+    "commonNames": "PCP, Angel Dust, Phencyclidine, Peace Pill, Hog",
+    "overview": "PCP is a dissociative anesthetic that produces powerful dissociative effects and altered states of consciousness. Originally developed as an anesthetic, it's known for unpredictable and potentially dangerous effects including dissociation, anesthesia, and possible aggressive behavior.",
+    "physicalEffects": [
+      "**SERIOUS MEDICAL RISKS**",
+      "Complete anesthesia and loss of pain sensation",
+      "Dangerous loss of motor control and coordination",
+      "Increased heart rate and blood pressure",
+      "Hyperthermia and temperature dysregulation",
+      "Possible violent or aggressive behavior",
+      "Risk of injury due to anesthesia and coordination loss"
+    ],
+    "psychologicalEffects": [
+      "Profound dissociation from reality and identity",
+      "Possible aggressive or violent behavior",
+      "Confusion and disorientation",
+      "Possible psychotic episodes",
+      "Memory loss during experience",
+      "Unpredictable personality changes"
+    ],
+    "visualEffects": [
+      "Visual distortions and alterations",
+      "Possible hallucinations",
+      "Altered depth perception",
+      "Environmental morphing and changes",
+      "Often less prominent than psychological effects"
+    ],
+    "benefits": [
+      "**NO SAFE RECREATIONAL BENEFITS**",
+      "Medical anesthetic use only under strict supervision",
+      "Research applications in controlled medical settings",
+      "Historical use in anesthesia (largely discontinued)"
+    ],
+    "contraindications": [
+      "**CONTRAINDICATED FOR ALL RECREATIONAL USE**",
+      "Particularly dangerous for those with mental health conditions",
+      "Extremely dangerous for those with heart conditions",
+      "Should only be used in medical settings by professionals"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "3-meo-pcp",
+    "name": "3-MeO-PCP",
+    "chemicalName": "3-Methoxyphencyclidine",
+    "sourceFile": "25-3-MeO-PCP",
+    "classification": "Dissociative (NMDA receptor antagonist)",
+    "duration": "4-8 hours",
+    "onset": "30-90 minutes (oral), 15-30 minutes (other routes)",
+    "peak": "2-4 hours",
+    "origin": "Synthetic (PCP analogue)",
+    "legalStatus": "Legal grey area in many jurisdictions",
+    "commonNames": "3-MeO-PCP, 3-Methoxy-PCP",
+    "overview": "3-MeO-PCP is a synthetic dissociative drug related to PCP but with a more manageable and less dangerous profile. Known for producing clear-headed dissociation, enhanced creativity, and therapeutic-like effects at appropriate doses, though it still carries significant risks.",
+    "physicalEffects": [
+      "Anesthesia and reduced pain sensation",
+      "Loss of motor coordination and balance",
+      "Possible nausea during onset",
+      "Changes in body temperature regulation",
+      "Enhanced physical sensitivity when touched",
+      "Generally less physical discomfort than PCP"
+    ],
+    "psychologicalEffects": [
+      "Dissociation from body and environment",
+      "Enhanced creativity and lateral thinking",
+      "Possible therapeutic insights and perspectives",
+      "Euphoria and mood enhancement",
+      "Reduced anxiety and emotional numbness",
+      "Maintained cognitive clarity (dose-dependent)"
+    ],
+    "visualEffects": [
+      "Mild visual distortions and changes",
+      "Enhanced colors and visual depth",
+      "Possible geometric patterns at higher doses",
+      "Generally less prominent than psychological effects",
+      "Reality distortions and perspective shifts"
+    ],
+    "benefits": [
+      "Potential therapeutic applications for depression and anxiety",
+      "Enhanced creativity and artistic inspiration",
+      "Novel perspectives on personal problems",
+      "Possible applications in therapy and personal growth",
+      "Less dangerous than PCP while maintaining dissociative benefits"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Use before driving or operating machinery"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "nitrous-oxide",
+    "name": "Nitrous Oxide",
+    "chemicalName": "N\u2082O",
+    "sourceFile": "26-Nitrous-Oxide",
+    "classification": "Dissociative Anesthetic Gas (NMDA receptor antagonist)",
+    "duration": "30 seconds - 5 minutes",
+    "onset": "Immediate (when inhaled)",
+    "peak": "1-3 minutes",
+    "origin": "Synthetic gas",
+    "legalStatus": "Legal for medical/commercial use, recreational use varies",
+    "commonNames": "Nitrous Oxide, Laughing Gas, Nos, Whippits, Nangs",
+    "overview": "Nitrous oxide is a dissociative gas commonly known as \"laughing gas,\" used medically as an anesthetic and recreationally for its brief euphoric and dissociative effects. It produces short-lived altered consciousness, laughter, and possible mystical experiences.",
+    "physicalEffects": [
+      "Temporary loss of motor control and coordination",
+      "Uncontrollable laughter and euphoria",
+      "Possible dizziness and lightheadedness",
+      "Reduced pain sensation (anesthetic effect)",
+      "Possible nausea with excessive use",
+      "Tingling sensations throughout body"
+    ],
+    "psychologicalEffects": [
+      "Intense euphoria and mood elevation",
+      "Dissociation from body and environment",
+      "Possible feelings of floating or weightlessness",
+      "Enhanced humor and tendency to laugh",
+      "Brief altered states of consciousness",
+      "Possible confusion and disorientation"
+    ],
+    "visualEffects": [
+      "Mild visual distortions during peak",
+      "Possible tunnel vision or visual changes",
+      "Enhanced colors or visual depth (brief)",
+      "Generally minimal visual effects",
+      "Rapid return to normal vision"
+    ],
+    "benefits": [
+      "Medical anesthesia and pain relief",
+      "Brief stress relief and mood enhancement",
+      "Possible therapeutic applications (research stage)",
+      "Relatively safe when used properly",
+      "No known physical addiction potential",
+      "Quick recovery with no lasting impairment"
+    ],
+    "contraindications": [
+      "Respiratory conditions or breathing problems",
+      "Vitamin B12 deficiency",
+      "Pregnancy (medical use only under supervision)",
+      "Use in confined spaces or while driving",
+      "History of substance abuse (caution advised)"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "1p-lsd",
+    "name": "1P-LSD",
+    "chemicalName": "1-Propionyl-lysergic acid diethylamide",
+    "sourceFile": "27-1P-LSD",
+    "classification": "Lysergamide Psychedelic (LSD prodrug, 5-HT2A receptor agonist)",
+    "duration": "8-12 hours",
+    "onset": "30-90 minutes",
+    "peak": "3-5 hours",
+    "origin": "Synthetic (LSD analogue)",
+    "legalStatus": "Legal grey area in many jurisdictions",
+    "commonNames": "1P-LSD, 1-Propionyl-LSD",
+    "overview": "1P-LSD is a psychedelic lysergamide that acts as a prodrug to LSD, producing nearly identical effects. Often used as a legal alternative to LSD, it's believed to convert to LSD in the body, making it functionally equivalent to LSD in terms of experience and effects.",
+    "physicalEffects": [
+      "Identical to LSD effects",
+      "Enhanced physical sensitivity and awareness",
+      "Slight changes in heart rate and blood pressure",
+      "Enhanced tactile sensations",
+      "Possible muscle tension or relaxation",
+      "Generally comfortable physical experience"
+    ],
+    "psychologicalEffects": [
+      "Deep introspection and self-examination",
+      "Enhanced emotional processing and empathy",
+      "Mood enhancement and euphoria",
+      "Enhanced creativity and lateral thinking",
+      "Philosophical and existential insights",
+      "Identical psychological profile to LSD"
+    ],
+    "visualEffects": [
+      "Complex geometric patterns and fractals",
+      "Color enhancement and saturation",
+      "Morphing and breathing of surfaces",
+      "Enhanced visual acuity and depth perception",
+      "Closed-eye visuals and imagery",
+      "Visually indistinguishable from LSD"
+    ],
+    "benefits": [
+      "Identical benefits to LSD",
+      "Enhanced creativity and problem-solving",
+      "Personal growth and self-understanding",
+      "Spiritual and mystical experiences",
+      "Possible therapeutic applications (research needed)",
+      "Legal accessibility in some jurisdictions"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions (caution advised)",
+      "Pregnancy and breastfeeding",
+      "Use with certain medications"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "changa",
+    "name": "Changa",
+    "chemicalName": "DMT + MAOI Herbs",
+    "sourceFile": "28-Changa",
+    "classification": "Plant Medicine Combination (DMT + MAOI)",
+    "duration": "15-60 minutes (extended from pure DMT)",
+    "onset": "30 seconds - 2 minutes",
+    "peak": "5-20 minutes",
+    "origin": "Modern creation (traditional plant combinations)",
+    "legalStatus": "Illegal in most countries (due to DMT content)",
+    "commonNames": "Changa, Enhanced Leaf, Smokable Ayahuasca",
+    "overview": "Changa is a smokable herbal blend containing DMT and MAOI-containing plants, creating a more gradual and extended DMT experience. Often called \"smokable ayahuasca,\" it combines the visual intensity of DMT with the extended duration and deeper integration time of ayahuasca.",
+    "physicalEffects": [
+      "Generally gentler onset than pure DMT",
+      "Enhanced physical sensitivity and awareness",
+      "Possible mild nausea (less than ayahuasca)",
+      "Temperature fluctuations and energy changes",
+      "Enhanced connection with body and environment",
+      "Generally comfortable physical experience"
+    ],
+    "psychologicalEffects": [
+      "Deep spiritual and mystical experiences",
+      "Enhanced emotional processing and healing",
+      "Access to archetypal and symbolic material",
+      "Profound introspection and self-examination",
+      "Enhanced empathy and universal connection",
+      "More integrated experience than pure DMT"
+    ],
+    "visualEffects": [
+      "Complex geometric patterns and mandalas",
+      "Entity encounters and spiritual beings",
+      "Vivid colors and enhanced visual depth",
+      "Fractal patterns and impossible geometries",
+      "Nature-based and organic imagery",
+      "Often described as more coherent than pure DMT"
+    ],
+    "benefits": [
+      "Spiritual growth and mystical experiences",
+      "Emotional healing and trauma processing",
+      "Enhanced creativity and artistic inspiration",
+      "Personal growth and self-understanding",
+      "Connection with nature and universal consciousness",
+      "More accessible than ayahuasca for many users"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Use of SSRIs, MAOIs, or other contraindicated medications",
+      "Pregnancy and breastfeeding",
+      "Heart conditions or cardiovascular disease",
+      "Recent consumption of tyramine-rich foods"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "harmaline",
+    "name": "Harmaline",
+    "chemicalName": "Harmaline Hydrochloride",
+    "sourceFile": "29-Harmaline",
+    "classification": "Beta-carboline MAOI with Mild Psychoactive Properties",
+    "duration": "4-8 hours",
+    "onset": "30-90 minutes",
+    "peak": "2-4 hours",
+    "origin": "Natural (found in Banisteriopsis caapi, Peganum harmala, others)",
+    "legalStatus": "Legal in most jurisdictions as isolated compound",
+    "commonNames": "Harmaline, Telepathine, Banisterine, Yageine",
+    "overview": "Harmaline is a beta-carboline alkaloid found in various plants including Banisteriopsis caapi and Peganum harmala. As an MAOI and mild psychoactive compound, it enables oral DMT activity and produces its own unique consciousness-altering effects including enhanced dreams and spiritual experiences.",
+    "physicalEffects": [
+      "Mild sedation and relaxation",
+      "Possible nausea during onset",
+      "Enhanced physical sensitivity",
+      "Muscle relaxation and tension relief",
+      "Generally comfortable and gentle physical experience",
+      "Possible enhanced proprioception"
+    ],
+    "psychologicalEffects": [
+      "Enhanced introspection and self-reflection",
+      "Mild euphoria and mood enhancement",
+      "Increased emotional sensitivity and empathy",
+      "Possible enhanced spiritual awareness",
+      "Generally calm and contemplative mindset",
+      "Enhanced connection with nature and environment"
+    ],
+    "visualEffects": [
+      "Mild enhancement of colors and visual depth",
+      "Subtle geometric patterns (rare and mild)",
+      "Enhanced appreciation for visual beauty",
+      "Possible mild closed-eye visuals",
+      "Generally minimal visual effects compared to classical psychedelics"
+    ],
+    "benefits": [
+      "Enhanced dream states and dream recall",
+      "Mild antidepressant and anxiolytic effects",
+      "Spiritual and consciousness enhancement",
+      "Traditional use for healing and spiritual growth",
+      "MAOI activity for combination with tryptamines",
+      "Possible neuroprotective properties"
+    ],
+    "contraindications": [
+      "Use of SSRIs, MAOIs, or other contraindicated medications",
+      "Consumption of tyramine-rich foods",
+      "Severe mental health conditions",
+      "Pregnancy and breastfeeding",
+      "Heart conditions or cardiovascular disease"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  },
+  {
+    "slug": "lsa",
+    "name": "LSA",
+    "chemicalName": "Lysergic Acid Amide",
+    "sourceFile": "30-LSA",
+    "classification": "Natural Lysergamide Psychedelic (5-HT2A receptor agonist)",
+    "duration": "6-12 hours",
+    "onset": "30-120 minutes",
+    "peak": "3-6 hours",
+    "origin": "Natural (morning glory and Hawaiian baby woodrose seeds)",
+    "legalStatus": "Seeds legal in most places, LSA compound scheduling varies",
+    "commonNames": "LSA, Ergine, Morning Glory, Hawaiian Baby Woodrose, HBWR",
+    "overview": "LSA is a naturally occurring psychedelic compound found in morning glory seeds and Hawaiian baby woodrose seeds. As a precursor to LSD, it produces similar but generally milder effects with more body load and nausea, offering a natural lysergamide experience.",
+    "physicalEffects": [
+      "**Significant nausea and possible vomiting**",
+      "Heavy body load and physical discomfort",
+      "Muscle tension and cramping",
+      "Vasoconstriction and circulation changes",
+      "Possible stomach pain and gastrointestinal distress",
+      "Generally uncomfortable physical experience"
+    ],
+    "psychologicalEffects": [
+      "Introspection and self-examination",
+      "Enhanced emotional processing",
+      "Mood changes and possible euphoria",
+      "Philosophical and existential thoughts",
+      "Generally milder psychological effects than LSD",
+      "Possible anxiety related to physical discomfort"
+    ],
+    "visualEffects": [
+      "Mild to moderate geometric patterns",
+      "Color enhancement and visual distortions",
+      "Morphing and breathing of surfaces",
+      "Generally less intense visuals than LSD",
+      "Closed-eye visuals often more prominent",
+      "Visual effects often overshadowed by body load"
+    ],
+    "benefits": [
+      "Natural source of lysergamide experience",
+      "Personal growth and introspective insights",
+      "Spiritual and mystical experiences",
+      "Enhanced creativity and problem-solving",
+      "Legal accessibility in many jurisdictions",
+      "Traditional use in some cultures"
+    ],
+    "contraindications": [
+      "History of psychotic disorders",
+      "Severe mental health conditions",
+      "Heart conditions or cardiovascular disease",
+      "Pregnancy and breastfeeding",
+      "Gastrointestinal disorders"
+    ],
+    "drugInteractions": [],
+    "dangerousCombinations": []
+  }
+]

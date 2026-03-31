@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Addiction Treatment",
+    "slug": "addiction-treatment",
+    "refs": [
+      "10-Ibogaine",
+      "09-Iboga",
+      "01-Psilocybin",
+      "02-LSD",
+      "06-Ayahuasca"
+    ]
+  },
+  {
+    "name": "African Medicines",
+    "slug": "african-medicines",
+    "refs": [
+      "09-Iboga",
+      "10-Ibogaine"
+    ]
+  },
+  {
+    "name": "Amazonian Medicines",
+    "slug": "amazonian-medicines",
+    "refs": [
+      "06-Ayahuasca",
+      "28-Changa",
+      "29-Harmaline"
+    ]
+  },
+  {
+    "name": "Breakthrough Therapy Designations",
+    "slug": "breakthrough-therapy",
+    "refs": [
+      "01-Psilocybin",
+      "11-MDMA"
+    ]
+  },
+  {
+    "name": "Dangerous Substances",
+    "slug": "dangerous-substances",
+    "refs": [
+      "21-25I-NBOMe",
+      "16-Datura",
+      "24-PCP"
+    ]
+  },
+  {
+    "name": "Decriminalized Psychedelics",
+    "slug": "decriminalized",
+    "refs": [
+      "01-Psilocybin",
+      "01-Psilocybin",
+      "03-DMT",
+      "05-5-MeO-DMT",
+      "19-Muscimol"
+    ]
+  },
+  {
+    "name": "Decriminalized Psychedelics",
+    "slug": "decriminalized",
+    "refs": [
+      "01-Psilocybin",
+      "06-Ayahuasca",
+      "07-Peyote",
+      "08-San-Pedro",
+      "09-Iboga",
+      "19-Muscimol",
+      "15-Cannabis"
+    ]
+  },
+  {
+    "name": "Depression and Anxiety Treatment",
+    "slug": "depression-anxiety",
+    "refs": [
+      "14-Ketamine"
+    ]
+  },
+  {
+    "name": "Depression and Anxiety Treatment",
+    "slug": "depression-anxiety",
+    "refs": [
+      "01-Psilocybin",
+      "11-MDMA"
+    ]
+  },
+  {
+    "name": "Depression and Anxiety Treatment",
+    "slug": "depression-anxiety",
+    "refs": [
+      "02-LSD",
+      "06-Ayahuasca"
+    ]
+  },
+  {
+    "name": "Dissociatives",
+    "slug": "dissociatives",
+    "refs": [
+      "14-Ketamine",
+      "26-Nitrous-Oxide",
+      "12-Salvia-Divinorum",
+      "25-3-MeO-PCP"
+    ]
+  },
+  {
+    "name": "End-of-Life Care",
+    "slug": "end-of-life-care",
+    "refs": [
+      "01-Psilocybin",
+      "02-LSD",
+      "05-5-MeO-DMT"
+    ]
+  },
+  {
+    "name": "Entactogens (Empathogens)",
+    "slug": "entactogens",
+    "refs": [
+      "11-MDMA",
+      "17-MDA",
+      "13-2C-B"
+    ]
+  },
+  {
+    "name": "FDA Approved Psychedelics",
+    "slug": "fda-approved",
+    "refs": [
+      "14-Ketamine"
+    ]
+  },
+  {
+    "name": "FDA Approved Psychedelics",
+    "slug": "fda-approved",
+    "refs": [
+      "11-MDMA",
+      "01-Psilocybin"
+    ]
+  },
+  {
+    "name": "Psychedelics Knowledge Base Index",
+    "slug": "index",
+    "refs": [
+      "01-Psilocybin",
+      "02-LSD",
+      "03-DMT",
+      "04-Mescaline",
+      "05-5-MeO-DMT",
+      "06-Ayahuasca",
+      "07-Peyote",
+      "08-San-Pedro",
+      "09-Iboga",
+      "09-4-AcO-DMT",
+      "10-Ibogaine",
+      "11-MDMA",
+      "12-Salvia-Divinorum",
+      "13-2C-B",
+      "14-Ketamine",
+      "15-Cannabis",
+      "16-Datura",
+      "17-MDA",
+      "18-DOC",
+      "19-Muscimol",
+      "20-AL-LAD",
+      "21-25I-NBOMe",
+      "22-DPT",
+      "23-4-HO-MET",
+      "24-PCP",
+      "25-3-MeO-PCP",
+      "26-Nitrous-Oxide",
+      "27-1P-LSD",
+      "28-Changa",
+      "29-Harmaline",
+      "30-LSA"
+    ]
+  },
+  {
+    "name": "Psychedelics Knowledge Base Index",
+    "slug": "index",
+    "refs": [
+      "01-Psilocybin",
+      "03-DMT",
+      "05-5-MeO-DMT",
+      "09-4-AcO-DMT",
+      "22-DPT",
+      "02-LSD",
+      "30-LSA",
+      "04-Mescaline",
+      "18-DOC",
+      "06-Ayahuasca",
+      "07-Peyote",
+      "08-San-Pedro",
+      "09-Iboga",
+      "10-Ibogaine",
+      "28-Changa",
+      "29-Harmaline",
+      "11-MDMA",
+      "13-2C-B",
+      "17-MDA",
+      "12-Salvia-Divinorum",
+      "14-Ketamine",
+      "25-3-MeO-PCP",
+      "26-Nitrous-Oxide",
+      "20-AL-LAD",
+      "23-4-HO-MET",
+      "27-1P-LSD",
+      "15-Cannabis",
+      "19-Muscimol",
+      "16-Datura",
+      "21-25I-NBOMe",
+      "24-PCP"
+    ]
+  },
+  {
+    "name": "Psychedelics Knowledge Base Index",
+    "slug": "index",
+    "refs": [
+      "01-Psilocybin",
+      "11-MDMA",
+      "14-Ketamine",
+      "02-LSD",
+      "06-Ayahuasca",
+      "04-Mescaline",
+      "05-5-MeO-DMT",
+      "15-Cannabis",
+      "11-MDMA",
+      "01-Psilocybin",
+      "06-Ayahuasca",
+      "10-Ibogaine",
+      "22-DPT",
+      "09-Iboga",
+      "10-Ibogaine",
+      "01-Psilocybin",
+      "02-LSD",
+      "06-Ayahuasca",
+      "07-Peyote",
+      "01-Psilocybin",
+      "02-LSD",
+      "05-5-MeO-DMT",
+      "01-Psilocybin",
+      "02-LSD"
+    ]
+  },
+  {
+    "name": "Psychedelics Knowledge Base Index",
+    "slug": "index",
+    "refs": [
+      "01-Psilocybin",
+      "11-MDMA",
+      "14-Ketamine",
+      "15-Cannabis",
+      "02-LSD",
+      "06-Ayahuasca",
+      "10-Ibogaine",
+      "26-Nitrous-Oxide",
+      "01-Psilocybin",
+      "15-Cannabis",
+      "06-Ayahuasca",
+      "07-Peyote",
+      "09-Iboga",
+      "10-Ibogaine",
+      "20-AL-LAD",
+      "23-4-HO-MET",
+      "27-1P-LSD",
+      "30-LSA",
+      "03-DMT",
+      "05-5-MeO-DMT",
+      "13-2C-B",
+      "16-Datura",
+      "17-MDA",
+      "18-DOC",
+      "21-25I-NBOMe",
+      "22-DPT",
+      "24-PCP",
+      "25-3-MeO-PCP"
+    ]
+  },
+  {
+    "name": "Lysergamides",
+    "slug": "lysergamides",
+    "refs": [
+      "02-LSD",
+      "30-LSA",
+      "20-AL-LAD",
+      "27-1P-LSD"
+    ]
+  },
+  {
+    "name": "Mild Psychedelics",
+    "slug": "mild-psychedelics",
+    "refs": [
+      "15-Cannabis",
+      "19-Muscimol"
+    ]
+  },
+  {
+    "name": "Neurological Conditions",
+    "slug": "neurological-conditions",
+    "refs": [
+      "01-Psilocybin",
+      "02-LSD",
+      "01-Psilocybin"
+    ]
+  },
+  {
+    "name": "North American Medicines",
+    "slug": "north-american-medicines",
+    "refs": [
+      "07-Peyote",
+      "08-San-Pedro"
+    ]
+  },
+  {
+    "name": "PTSD and Trauma Treatment",
+    "slug": "ptsd-trauma",
+    "refs": [
+      "11-MDMA",
+      "01-Psilocybin",
+      "06-Ayahuasca"
+    ]
+  },
+  {
+    "name": "Phenethylamines",
+    "slug": "phenethylamines",
+    "refs": [
+      "04-Mescaline",
+      "13-2C-B",
+      "18-DOC",
+      "21-25I-NBOMe"
+    ]
+  },
+  {
+    "name": "Schedule I Substances",
+    "slug": "schedule-i-substances",
+    "refs": [
+      "03-DMT",
+      "05-5-MeO-DMT",
+      "22-DPT",
+      "02-LSD",
+      "13-2C-B",
+      "18-DOC",
+      "11-MDMA",
+      "17-MDA",
+      "21-25I-NBOMe",
+      "24-PCP"
+    ]
+  },
+  {
+    "name": "Traditional Use Protection",
+    "slug": "traditional-use-protection",
+    "refs": [
+      "07-Peyote",
+      "06-Ayahuasca"
+    ]
+  },
+  {
+    "name": "Traditional Use Protection",
+    "slug": "traditional-use-protection",
+    "refs": [
+      "06-Ayahuasca",
+      "06-Ayahuasca",
+      "08-San-Pedro",
+      "09-Iboga"
+    ]
+  },
+  {
+    "name": "Tryptamines",
+    "slug": "tryptamines",
+    "refs": [
+      "01-Psilocybin",
+      "03-DMT",
+      "05-5-MeO-DMT",
+      "09-4-AcO-DMT",
+      "22-DPT",
+      "23-4-HO-MET"
+    ]
+  }
+]
