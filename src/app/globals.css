@@ -1,0 +1,133 @@
+@import "tailwindcss";
+
+/* ============================================
+   NEON APOTHECARY — Design System Tokens
+   ============================================ */
+
+@theme {
+  --color-void: #0A0A0A;
+  --color-neon-orange: #FF6B35;
+  --color-teal-glow: #00E5CC;
+  --color-deep-purple: #1E1E2E;
+  --color-white-flash: #F0F0F0;
+  --color-warning-red: #FF3B3B;
+  --color-muted: #7A7A8A;
+  --color-surface: #151520;
+
+  --font-display: "Unbounded", sans-serif;
+  --font-body: "Crimson Pro", serif;
+}
+
+/* ============================================
+   Base Styles
+   ============================================ */
+
+html {
+  background-color: var(--color-void);
+  color: var(--color-white-flash);
+  font-family: var(--font-body);
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100dvh;
+  position: relative;
+}
+
+/* Dot grid background pattern */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(0, 229, 204, 0.06) 1px, transparent 1px);
+  background-size: 32px 32px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ============================================
+   Typography
+   ============================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+/* ============================================
+   Utility Classes
+   ============================================ */
+
+.neon-orange-glow {
+  text-shadow: 0 0 20px rgba(255, 107, 53, 0.5), 0 0 40px rgba(255, 107, 53, 0.3);
+}
+
+.teal-glow {
+  text-shadow: 0 0 20px rgba(0, 229, 204, 0.5), 0 0 40px rgba(0, 229, 204, 0.3);
+}
+
+.card-glow:hover {
+  box-shadow: 0 0 20px rgba(0, 229, 204, 0.15), 0 0 40px rgba(0, 229, 204, 0.05);
+}
+
+.card-glow-orange:hover {
+  box-shadow: 0 0 20px rgba(255, 107, 53, 0.15), 0 0 40px rgba(255, 107, 53, 0.05);
+}
+
+.danger-glow {
+  box-shadow: 0 0 15px rgba(255, 59, 59, 0.1), inset 0 0 15px rgba(255, 59, 59, 0.05);
+}
+
+/* ============================================
+   Typewriter animation
+   ============================================ */
+
+@keyframes typewriter {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: var(--color-teal-glow); }
+}
+
+.typewriter {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid var(--color-teal-glow);
+  animation:
+    typewriter 3s steps(80) 0.5s forwards,
+    blink-caret 0.75s step-end infinite;
+  width: 0;
+}
+
+/* ============================================
+   Search input
+   ============================================ */
+
+input[type="search"]::-webkit-search-cancel-button {
+  display: none;
+}
+
+/* ============================================
+   Scrollbar
+   ============================================ */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-void);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-deep-purple);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-muted);
+}
