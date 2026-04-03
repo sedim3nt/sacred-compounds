@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Pharmacologist } from "@/components/Pharmacologist";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -59,6 +60,7 @@ export default function RootLayout({
           </nav>
 
           <main className="flex-1">{children}</main>
+          <Pharmacologist />
 
           <footer className="border-t border-deep-purple/50 bg-void">
             <div className="mx-auto max-w-[1220px] px-6 py-10">
