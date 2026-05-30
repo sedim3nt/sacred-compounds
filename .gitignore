@@ -1,6 +1,20 @@
+# dependencies
 node_modules/
+
+# next.js build output
 .next/
+dist/
+build/
 out/
-.vercel/
+
+# env files
+.env
+.env.*
+
+# vercel
 .vercel
-.env.local
+.vercel/
+
+# misc
+*.log
+.DS_Store

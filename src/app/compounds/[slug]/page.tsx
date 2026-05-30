@@ -111,6 +111,18 @@ export default async function CompoundDetailPage({
             />
           </div>
         )}
+        <div className="mt-4 border border-warning-red/30 bg-warning-red/5 rounded-lg p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+          <p className="text-sm text-white-flash/80">
+            On any medication? Check it against {substance.name} before
+            combining.
+          </p>
+          <Link
+            href="/interactions"
+            className="shrink-0 inline-block bg-warning-red/90 hover:bg-warning-red text-void font-display text-xs font-bold px-4 py-2 rounded-lg transition-colors"
+          >
+            Open Interaction Checker &rarr;
+          </Link>
+        </div>
       </section>
 
       {/* Effects */}

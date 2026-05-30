@@ -78,6 +78,47 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Core Tools */}
+      <section className="pb-16">
+        <h2 className="font-display text-xl font-bold text-white-flash mb-8 text-center">
+          Free Harm Reduction Tools
+        </h2>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/interactions"
+            className="block bg-deep-purple/60 border border-warning-red/30 hover:border-warning-red/60 rounded-lg p-7 transition-all card-glow"
+          >
+            <h3 className="font-display text-lg font-bold text-warning-red mb-2 flex items-center gap-2">
+              <span>&#9888;&#65039;</span> Interaction Checker
+            </h3>
+            <p className="text-sm text-muted leading-relaxed">
+              Already on medication? Check known dangerous interactions before
+              you combine. Covers SSRIs, MAOIs, lithium, tramadol and the
+              serotonin-syndrome risks that send people to the ER.
+            </p>
+            <span className="inline-block mt-4 text-xs font-display font-bold text-warning-red">
+              Check interactions &rarr;
+            </span>
+          </Link>
+          <Link
+            href="/legal"
+            className="block bg-deep-purple/60 border border-teal-glow/30 hover:border-teal-glow/60 rounded-lg p-7 transition-all card-glow"
+          >
+            <h3 className="font-display text-lg font-bold text-teal-glow mb-2">
+              What&apos;s Legal Here
+            </h3>
+            <p className="text-sm text-muted leading-relaxed">
+              The law changes fast and varies by state. See what&apos;s legal,
+              decriminalized, or therapeutically available where you are —
+              including Colorado and Oregon&apos;s regulated programs.
+            </p>
+            <span className="inline-block mt-4 text-xs font-display font-bold text-teal-glow">
+              Check your state &rarr;
+            </span>
+          </Link>
+        </div>
+      </section>
+
       {/* Harm Reduction Banner */}
       <section className="pb-20">
         <div className="bg-deep-purple/60 border border-neon-orange/20 rounded-lg p-8 text-center">

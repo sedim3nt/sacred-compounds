@@ -41,9 +41,15 @@ export default function RootLayout({
               >
                 Sacred Compounds
               </Link>
-              <div className="hidden md:flex items-center gap-8">
+              <div className="hidden md:flex items-center gap-7">
                 <Link href="/compounds" className="text-sm text-muted hover:text-white-flash transition-colors">
                   Compounds
+                </Link>
+                <Link href="/interactions" className="text-sm text-muted hover:text-white-flash transition-colors">
+                  Interactions
+                </Link>
+                <Link href="/legal" className="text-sm text-muted hover:text-white-flash transition-colors">
+                  Legal
                 </Link>
                 <Link href="/classifications" className="text-sm text-muted hover:text-white-flash transition-colors">
                   Classifications
@@ -80,6 +86,8 @@ export default function RootLayout({
                   </h4>
                   <div className="flex flex-col gap-2">
                     <Link href="/compounds" className="text-sm text-muted hover:text-teal-glow transition-colors">Compounds</Link>
+                    <Link href="/interactions" className="text-sm text-muted hover:text-teal-glow transition-colors">Interaction Checker</Link>
+                    <Link href="/legal" className="text-sm text-muted hover:text-teal-glow transition-colors">What&apos;s Legal Here</Link>
                     <Link href="/classifications" className="text-sm text-muted hover:text-teal-glow transition-colors">Classifications</Link>
                     <Link href="/safety" className="text-sm text-muted hover:text-teal-glow transition-colors">Safety Hub</Link>
                     <Link href="/about" className="text-sm text-muted hover:text-teal-glow transition-colors">About</Link>
@@ -127,6 +135,8 @@ function MobileMenu() {
         </summary>
         <div className="absolute right-4 top-14 bg-deep-purple border border-muted/20 rounded-lg p-4 flex flex-col gap-3 min-w-[160px] shadow-xl">
           <Link href="/compounds" className="text-sm text-muted hover:text-white-flash transition-colors">Compounds</Link>
+          <Link href="/interactions" className="text-sm text-muted hover:text-white-flash transition-colors">Interactions</Link>
+          <Link href="/legal" className="text-sm text-muted hover:text-white-flash transition-colors">Legal</Link>
           <Link href="/classifications" className="text-sm text-muted hover:text-white-flash transition-colors">Classifications</Link>
           <Link href="/safety" className="text-sm text-muted hover:text-white-flash transition-colors">Safety</Link>
           <Link href="/about" className="text-sm text-muted hover:text-white-flash transition-colors">About</Link>
